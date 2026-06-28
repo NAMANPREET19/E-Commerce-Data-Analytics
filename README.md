@@ -1,4 +1,4 @@
-LINK:- https://e-commerce-data-analytics-aotmz5ps3xvkctnevvrnth.streamlit.app/
+LINK:- https://namanpreet19-e-commerce-data-analytics-home-fatwqy.streamlit.app/
 
 
 An interactive sales analysis dashboard built with Streamlit using the Sample Superstore dataset.
